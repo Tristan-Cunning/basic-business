@@ -1,3 +1,15 @@
+# About me
+
+Tristan Cunningham
+
+This is a website for my wife. She is an aesthitician. This website will give a description of the services she provides and general information. It will also link to the website you can actually book with her. I apologize that it is not actually complete. I have had a rough time making the time for school work and as such had to prioritize actually learning as opposed to demonstrating what I learned. This website, in time, is one that will actually get used so I will come back to it.
+I used html, css, and some bootstrap.
+Later I will add:
+
+1. A map showing where the store is located
+2. An education/biography page
+3. Better styling
+
 # Basic business
 
 Project for my bootcamp. Time to create a basic business or personal website on my own.
